@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.obj
+*.obj
+.vscode/
+*.log
+*.tmp
+*.bak
